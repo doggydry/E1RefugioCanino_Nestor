@@ -8,9 +8,6 @@ public class MainRefugioCanino {
 
         System.out.println("Bienvenido al refugio canino Torres");
 
-        System.out.println("Bienvenido al refugio");
-
-        
         // Crear una instancia del refugio
         RefugioCanino refugio = new RefugioCanino();
 
